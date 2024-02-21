@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "http://dummyimage.com/320x200.png/ff4444/ffffff",
+    "title": "Analog Circuit Design manager",
+    "description": "Anterior displaced fracture of sternal end of right clavicle, initial encounter for open fracture Anterior displaced fracture of sternal end of right clavicle, initial encounter for open fracture Anterior displaced fracture of sternal end of right clavicle, initial encounter for open fracture",
+    "createdAt": "7/12/2023",
+    "status": "NEW"
+  },
+  {
+    "id": 2,
+    "thumbnail": "http://dummyimage.com/320x200.png/ff4444/ffffff",
+    "title": "Account Representative IV",
+    "description": "Displaced midcervical fracture of unspecified femur, subsequent encounter for open fracture type I or II with malunion Displaced midcervical fracture of unspecified femur, subsequent encounter for open fracture type I or II with malunion Displaced midcervical fracture of unspecified femur, subsequent encounter for open fracture type I or II with malunion",
+    "createdAt": "2/10/2024",
+    "status": "NEW"
+  },
+  {
+    "id": 3,
+    "thumbnail": null,
+    "title": "Senior Cost Accountant",
+    "description": "Other drowning and submersion, undetermined intent, initial encounter",
+    "createdAt": "11/9/2023",
+    "status": "NEW"
+  },
+  {
+    "id": 4,
+    "thumbnail": "http://dummyimage.com/320x200.png/ff4444/ffffff",
+    "title": "Product Engineer",
+    "description": "Other mechanical complication of other urinary devices and implants Other mechanical complication of other urinary devices and implants Other mechanical complication of other urinary devices and implants Other mechanical complication of other urinary devices and implants Other mechanical complication of other urinary devices and implants",
+    "createdAt": "5/14/2023",
+    "status": "NEW"
+  },
+  {
+    "id": 5,
+    "thumbnail": "http://dummyimage.com/320x200.png/ff4444/ffffff",
+    "title": "Recruiting Manager",
+    "description": "Erysipeloid, unspecified",
+    "createdAt": "10/9/2023",
+    "status": "NEW"
+  },
+  {
+    "id": 6,
+    "thumbnail": "http://dummyimage.com/320x200.png/ff4444/ffffff",
+    "title": "Registered Nurse",
+    "description": "Injury of other nerves at forearm level, right arm",
+    "createdAt": "10/24/2023",
+    "status": "NEW"
+  },
+  {
+    "id": 7,
+    "thumbnail": "http://dummyimage.com/320x200.png/5fa2dd/ffffff",
+    "title": "Data Coordinator",
+    "description": "Other overlap syndromes",
+    "createdAt": "12/25/2023",
+    "status": "NEW"
+  },
+  {
+    "id": 8,
+    "thumbnail": "http://dummyimage.com/320x200.png/5fa2dd/ffffff",
+    "title": "Structural Analysis Engineer",
+    "description": "Displaced segmental fracture of shaft of radius, unspecified arm, initial encounter for open fracture type IIIA, IIIB, or IIIC",
+    "createdAt": "4/5/2023",
+    "status": "NEW"
+  },
+  {
+    "id": 9,
+    "thumbnail": "http://dummyimage.com/320x200.png/dddddd/000000",
+    "title": "Operator",
+    "description": "Contusion of ureter",
+    "createdAt": "7/11/2023",
+    "status": "NEW"
+  }
+]
